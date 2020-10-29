@@ -76,6 +76,7 @@
       "@models/*": ["./src/models/*"],
       "@views/*": ["./src/views/*"],
       "@services/*": ["./src/services/*"],
+      "@middlewares/*": ["./src/middlewares/*"],
       "@repositories/*": ["./src/repositories/*"],
       "@config/*": ["./src/config/*"]
     }
